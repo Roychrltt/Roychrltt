@@ -26,7 +26,7 @@
   <br/>
 </p>
 
-<h3 align="center">🏹 Competitive Programming</h3>
+<h3 align="center">🎯 Competitive Programming</h3>
 <p align="center">
   <a href="https://leetcode.com/Chachou33">
     <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" 
@@ -45,8 +45,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roychrltt&layout=compact&theme=nord" />
 </p>
 
-## 👀 Profile Views
 ![Profile views](https://komarev.com/ghpvc/?username=Roychrltt&color=blueviolet)
+
 
 
 
