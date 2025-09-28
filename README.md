@@ -4,9 +4,8 @@ Hi, I'm Charlotte 👋
 <p align="center">
 🎓 Student at <b>42 Paris</b> | 💡 Passionate about <b>Algorithms, Artificial Intelligence, and Machine Learning</b>  
 </p>
-
-## 📊 GitHub Stats
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Cool separator" width="480">
   <img src="https://github-readme-stats.vercel.app/api?username=Roychrltt&show_icons=true&theme=nord" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roychrltt&layout=compact&theme=nord" />
@@ -41,6 +40,7 @@ Hi, I'm Charlotte 👋
 
 ## 👀 Profile Views
 ![Profile views](https://komarev.com/ghpvc/?username=Roychrltt&color=blueviolet)
+
 
 
 
