@@ -1,6 +1,5 @@
 <div align="center">
   <h2>📧 Connect with me</h2>
-  <h3>📧 Connect with me</h3>
   <p>
     <a href="mailto:charlotte.xu.pro@gmail.com">
       <img src="https://skillicons.dev/icons?i=gmail" alt="Send a mail"/></a>
@@ -46,6 +45,7 @@
 
 ## 👀 Profile Views
 ![Profile views](https://komarev.com/ghpvc/?username=Roychrltt&color=blueviolet)
+
 
 
 
