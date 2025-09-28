@@ -5,6 +5,7 @@
       <img src="https://skillicons.dev/icons?i=gmail" alt="Send a mail"/></a>
     <a href="https://www.linkedin.com/in/xiaoyun-xu-b58751242/">
       <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin Link" hspace="4"/></a>
+    <br/>
       <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Cool separator" width="480">
   </p>
 
@@ -42,6 +43,7 @@
 </p>
 ## 👀 Profile Views
 ![Profile views](https://komarev.com/ghpvc/?username=Roychrltt&color=blueviolet)
+
 
 
 
