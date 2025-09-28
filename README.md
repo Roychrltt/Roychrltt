@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Shell-FFD500?style=for-the-badge&logo=gnu-bash&logoColor=black" />
+  <br/>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Cool separator" width="480">
 </p>
 
@@ -44,6 +45,7 @@
 </p>
 ## 👀 Profile Views
 ![Profile views](https://komarev.com/ghpvc/?username=Roychrltt&color=blueviolet)
+
 
 
 
