@@ -26,9 +26,23 @@ Hi, I'm Charlotte 👋
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+<h2 align="center">🏹 Competitive Programming</h2>
+<p align="center">
+  <a href="https://leetcode.com/u/Chachou33/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="0"/> <!-- spacer -->
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://codeforces.com/profile/Chachou33">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://atcoder.jp/users/Chachou33">
+    <img src="https://img.shields.io/badge/AtCoder-1D7CFF?style=for-the-badge&logo=atcoder&logoColor=white" />
+  </a>
+</p>
 
 ## 👀 Profile Views
 ![Profile views](https://komarev.com/ghpvc/?username=Roychrltt&color=blueviolet)
+
 
 
 
