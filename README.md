@@ -1,5 +1,5 @@
-<p align="center">
-# Hi, I'm Charlotte 👋
+#<p align="center">
+Hi, I'm Charlotte 👋
 </p>
 <p align="center">
 🎓 Student at <b>42 Paris</b> | 💡 Passionate about <b>Algorithms, Artificial Intelligence, and Machine Learning</b>  
@@ -18,4 +18,5 @@
 
 ## 👀 Profile Views
 ![Profile views](https://komarev.com/ghpvc/?username=Roychrltt&color=blueviolet)
+
 
