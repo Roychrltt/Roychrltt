@@ -1,9 +1,13 @@
-<h1 align="center">
-Hi, I'm Charlotte 👋
-</h1>
-<p align="center">
-🎓 Student at <b>42 Paris</b> | 💡 Passionate about <b>Algorithms, Artificial Intelligence, and Machine Learning</b>  
-</p>
+<div align="center">
+  <h2>📧 Connect with me</h2>
+  <h3>📧 Connect with me</h3>
+  <p>
+    <a href="mailto:charlotte.xu.pro@gmail.com">
+      <img src="https://skillicons.dev/icons?i=gmail" alt="Send a mail"/></a>
+    <a href="https://www.linkedin.com/in/xiaoyun-xu-b58751242/">
+      <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin Link" hspace="4"/></a>
+  </p>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Cool separator" width="480">
   <br/>
@@ -42,6 +46,7 @@ Hi, I'm Charlotte 👋
 
 ## 👀 Profile Views
 ![Profile views](https://komarev.com/ghpvc/?username=Roychrltt&color=blueviolet)
+
 
 
 
