@@ -44,8 +44,10 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roychrltt&layout=compact&theme=nord" />
 </p>
+
 ## 👀 Profile Views
 ![Profile views](https://komarev.com/ghpvc/?username=Roychrltt&color=blueviolet)
+
 
 
 
