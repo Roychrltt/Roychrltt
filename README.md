@@ -9,7 +9,7 @@
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Cool separator" width="480">
-
+  <br/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roychrltt&layout=compact&theme=nord" />
 </p>
@@ -43,6 +43,7 @@
 
 ## 👀 Profile Views
 ![Profile views](https://komarev.com/ghpvc/?username=Roychrltt&color=blueviolet)
+
 
 
 
