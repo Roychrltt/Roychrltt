@@ -27,21 +27,28 @@ Hi, I'm Charlotte 👋
 </p>
 
 <h2 align="center">🏹 Competitive Programming</h2>
+
 <p align="center">
-  <a href="https://leetcode.com/u/Chachou33/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="0"/> <!-- spacer -->
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  Check out my competitive programming profiles:
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/Chachou33/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40"/>
   </a>
-  <a href="https://codeforces.com/profile/Chachou33">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  &nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/Chachou33" target="_blank">
+    <img src="https://sta.codeforces.com/s/66603/images/codeforces-logo-with-telegram.png" width="40" height="40"/>
   </a>
-  <a href="https://atcoder.jp/users/Chachou33">
-    <img src="https://img.shields.io/badge/AtCoder-1D7CFF?style=for-the-badge&logo=atcoder&logoColor=white" />
+  &nbsp;&nbsp;
+  <a href="https://atcoder.jp/users/Chachou33" target="_blank">
+    <img src="https://img.atcoder.jp/assets/atcoder.png" width="40" height="40"/>
   </a>
 </p>
 
 ## 👀 Profile Views
 ![Profile views](https://komarev.com/ghpvc/?username=Roychrltt&color=blueviolet)
+
 
 
 
