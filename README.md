@@ -37,15 +37,11 @@ Hi, I'm Charlotte 👋
     <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codeforces.svg" 
          alt="Codeforces Profile Link" height="45" width="45"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://atcoder.jp/users/Chachou33">
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/atcoder.svg" 
-         alt="AtCoder Profile Link" height="45" width="45"/>
-  </a>
 </p>
 
 ## 👀 Profile Views
 ![Profile views](https://komarev.com/ghpvc/?username=Roychrltt&color=blueviolet)
+
 
 
 
