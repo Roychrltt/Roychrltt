@@ -1,9 +1,9 @@
 <h1 align="center">
 Hi, I'm Charlotte 👋
 </h1>
-<h2 align="center">
+<p align="center">
 🎓 Student at <b>42 Paris</b> | 💡 Passionate about <b>Algorithms, Artificial Intelligence, and Machine Learning</b>  
-</h2>
+</p>
 
 ## 📊 GitHub Stats
 ![Charlotte's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roychrltt&show_icons=true&theme=nord)
@@ -19,6 +19,7 @@ Hi, I'm Charlotte 👋
 
 ## 👀 Profile Views
 ![Profile views](https://komarev.com/ghpvc/?username=Roychrltt&color=blueviolet)
+
 
 
 
