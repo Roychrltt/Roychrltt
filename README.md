@@ -12,14 +12,16 @@ Hi, I'm Charlotte 👋
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roychrltt&layout=compact&theme=nord" />
 </p>
 
-## 🏆 GitHub Profile Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=Roychrltt&theme=nord&column=7)
+<h2 align="center">🛠️ Technical Competences</h2>
 
-## 🔥 Streaks
-![GitHub Streak](https://streak-stats.demolab.com?user=Roychrltt&theme=nord)
+- **Languages:** C, C++, Python, Shell  
+- **Frameworks / Tools:** Docker, Git, Linux, Zsh, Vim
+- **Focus Areas:** Algorithms, AI, Machine Learning
+
 
 ## 👀 Profile Views
 ![Profile views](https://komarev.com/ghpvc/?username=Roychrltt&color=blueviolet)
+
 
 
 
