@@ -8,8 +8,7 @@ Hi, I'm Charlotte 👋
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Roychrltt&show_icons=true&theme=nord" />
-
-  
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roychrltt&layout=compact&theme=nord" />
 </p>
 
@@ -21,6 +20,7 @@ Hi, I'm Charlotte 👋
 
 ## 👀 Profile Views
 ![Profile views](https://komarev.com/ghpvc/?username=Roychrltt&color=blueviolet)
+
 
 
 
