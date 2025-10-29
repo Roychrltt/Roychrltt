@@ -1,11 +1,4 @@
 <div align="center">
-
-<h2 align="center">Hey, I'm Charlotte.
-</br>
-  I'm quite passionated by algorithms and competitve programming 😺
- 
-</h3>
-
 <h3 align="center">🛠️ Languages & Tools</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -49,6 +42,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=Roychrltt&color=blueviolet)
 </div>
+
 
 
 
