@@ -1,10 +1,9 @@
 <div align="center">
 
-<h2 align="center">Hey, I'm Charlotte.</h2>
-<h3 align="center">I'm quite passionated by algorithms and competitve programming 😺
-  <br/>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Cool separator" width="480">
-  <br/>
+<h2 align="center">Hey, I'm Charlotte.
+</br>
+  I'm quite passionated by algorithms and competitve programming 😺
+ 
 </h3>
 
 <h3 align="center">🛠️ Languages & Tools</h3>
@@ -50,5 +49,6 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=Roychrltt&color=blueviolet)
 </div>
+
 
 
