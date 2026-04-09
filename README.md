@@ -1,6 +1,6 @@
 <div align="center">
   <div align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi,+I'm+Charlotte+👋" alt="Hi, I'm Charlotte" />
+   <h3>Hi, I'm Charlotte 👋</h3>
   <p>I'm currently completing a Master's degree in <b>AI and Algorithms</b> at <b>42 Paris</b>.</p>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator" width="480">
