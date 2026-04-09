@@ -1,6 +1,6 @@
 <div align="center">
   <div align="center">
-  <h1>Hi, I'm Charlotte 👋</h1>
+   <p style="font-size: 2em; font-weight: bold; margin-bottom: 0;">Hi, I'm Charlotte 👋</p>
   <p>I'm currently completing a Master's degree in <b>AI and Algorithms</b> at <b>42 Paris</b>.</p>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator" width="480">
