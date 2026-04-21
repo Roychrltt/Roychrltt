@@ -2,8 +2,7 @@
   <div align="center">
    <h3>Hi, I'm Charlotte 👋</h3>
   <p>I'm currently completing a Master's degree in <b>AI and Algorithms</b> at <b>42 Paris</b>.</p>
-  [![xiaxu's 42 stats](https://42cv.dev/api/badge/cmmdzlvsr0000uhkkzpqyg3a7/stats?cursusId=21&coalitionId=carbon)](https://42cv.dev/xiaxu)
-
+[![42CV](https://img.shields.io/badge/42CV-xiaxu-black?style=for-the-badge&logo=42&logoColor=white)](https://42cv.dev/xiaxu)
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator" width="480">
 </div>
