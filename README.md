@@ -15,11 +15,11 @@
 
 | [Learn2Slither](https://github.com/Roychrltt/Learn2Slither) | [Leaffliction](https://github.com/swangarch/leaffliction) |
 |:---:|:---:|
-| <a href="https://github.com/Roychrltt/Learn2Slither"><img src="images/Learn2Slither.gif" alt="Learn2Slither" width="400"></a> | <a href="https://github.com/swangarch/leaffliction"><img src="images/Leaffliction.gif" alt="Leaffliction" width="400"></a> |
+| <a href="https://github.com/Roychrltt/Learn2Slither"><img src="images/Learn2Slither.gif" alt="Learn2Slither" width="400" height="225"></a> | <a href="https://github.com/swangarch/leaffliction"><img src="images/Leaffliction.gif" alt="Leaffliction" width="400" height="225"></a> |
 | A reinforcement learning project that trains an AI agent to play the classic Snake game. | A computer vision project using CNN to identify leaf diseases |
 | | |
 | [Multilayer Perceptron](https://github.com/Roychrltt/MultilayerPerceptron) | [DSLR](https://github.com/swangarch/DSLR) |
-| <a href="https://github.com/Roychrltt/MultilayerPerceptron"><img src="images/mlp.webp" alt="Multilayer Perceptron" width="400"></a> | <a href="https://github.com/swangarch/DSLR"><img src="images/dslr.png" alt="DSLR" width="400"></a> |
+| <a href="https://github.com/Roychrltt/MultilayerPerceptron"><img src="images/mlp.webp" alt="Multilayer Perceptron" width="400" height="225"></a> | <a href="https://github.com/swangarch/DSLR"><img src="images/dslr.png" alt="DSLR" width="400" height="225"></a> |
 | A MLP built from scratch without using any high-level ML libraries | Implemented binary classification with one-vs-all strategy using logistic regression |
 
 ## Algorithm 🧮
@@ -34,7 +34,7 @@
 
 | [Webserv](https://github.com/pquline/webserv) | [minishell](https://github.com/Roychrltt/minishell) |
 |:---:|:---:|
-| <a href="https://github.com/pquline/webserv"><img src="images/webserv.gif" alt="Webserv" width="400"></a> | <a href="https://github.com/Roychrltt/minishell"><img src="images/minishell.gif" alt="minishell" width="400"></a> |
+| <a href="https://github.com/pquline/webserv"><img src="images/webserv.gif" alt="Webserv" width="400" height="225"></a> | <a href="https://github.com/Roychrltt/minishell"><img src="images/minishell.gif" alt="minishell" width="400" height="225"></a> |
 | A lightweight, fast HTTP/1.1 server in C++ | A lightweight UNIX shell implemented in C, inspired by bash. |
 
 <h3 align="center">🛠️ Languages & Tools</h3>
