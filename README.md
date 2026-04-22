@@ -15,7 +15,7 @@
 
 | [Learn2Slither](https://github.com/Roychrltt/Learn2Slither) | [Leaffliction](https://github.com/swangarch/leaffliction) |
 |:---:|:---:|
-| <a href="https://github.com/Roychrltt/Learn2Slither"><img src="images/Learn2Slither.gif" alt="Learn2Slither" width="400" height="225"></a> | <a href="https://github.com/swangarch/leaffliction"><img src="images/Leaffliction.gif" alt="Leaffliction" width="400" height="225"></a> |
+| <a href="https://github.com/Roychrltt/Learn2Slither"><img src="images/Learn2Slither.gif" alt="Learn2Slither" width="350" height="225"></a> | <a href="https://github.com/swangarch/leaffliction"><img src="images/Leaffliction.gif" alt="Leaffliction" width="350" height="225"></a> |
 | A reinforcement learning project that trains an AI agent to play the classic Snake game. | A computer vision project using CNN to identify leaf diseases |
 | | |
 | [Multilayer Perceptron](https://github.com/Roychrltt/MultilayerPerceptron) | [DSLR](https://github.com/swangarch/DSLR) |
