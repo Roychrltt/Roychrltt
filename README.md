@@ -7,6 +7,19 @@
   </a>
 </p>
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator" width="480">
+# Projects
+
+## AI & ML
+
+| [Learn2Slither](https://github.com/Roychrltt/Learn2Slither) | [Leaffliction](https://github.com/swangarch/leaffliction) |
+|:---:|:---:|
+| <a href="https://github.com/Roychrltt/Learn2Slither"><img src="./Learn2Slither.gif" alt="Learn2Slither" width="400"></a> | <a href="https://github.com/swangarch/leaffliction"><img src="./Leaffliction.gif" alt="Leaffliction" width="400"></a> |
+| A reinforcement learning project that trains an AI agent to play the classic Snake game. | A computer vision project using CNN to identify leaf diseases |
+| | |
+| [Multilayer Perceptron](https://github.com/Roychrltt/MultilayerPerceptron) | [DSLR](https://github.com/swangarch/DSLR) |
+| <a href="https://github.com/Roychrltt/MultilayerPerceptron"><img src="./mlp.webp" alt="Multilayer Perceptron" width="400"></a> | <a href="https://github.com/swangarch/DSLR"><img src="./dslr.png" alt="DSLR" width="400"></a> |
+| A MLP built from scratch without using any high-level ML libraries | Implemented binary classification with one-vs-all strategy using logistic regression |
+
 <h3 align="center">🛠️ Languages & Tools</h3>
 <p align="center">
    <a href="https://skillicons.dev">
