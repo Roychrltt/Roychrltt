@@ -1,6 +1,11 @@
 <div align="center">
    <h3>Hi, I'm Charlotte 👋</h3>
   <p>I'm currently completing a Master's degree in <b>AI and Algorithms</b> at <b>42 Paris</b>.</p>
+   <p align="center">
+  <a href="https://42cv.dev/xiaxu">
+    <img src="https://42cv.dev/api/badge/cmo8ru45k00000kmp813vdvqx/stats?cursusId=21&coalitionId=carbon" alt="xiaxu's 42 stats" />
+  </a>
+</p>
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator" width="480">
 <h3 align="center">🛠️ Languages & Tools</h3>
 <p align="center">
@@ -40,11 +45,6 @@
   <img src="https://komarev.com/ghpvc/?username=Roychrltt&color=blueviolet" alt="Profile views" />
 </p>
 
-<p align="center">
-  <a href="https://42cv.dev/xiaxu">
-    <img src="https://42cv.dev/api/badge/cmo8ru45k00000kmp813vdvqx/stats?cursusId=21&coalitionId=carbon" alt="xiaxu's 42 stats" />
-  </a>
-</p>
 </div>
 
 
