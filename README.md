@@ -34,7 +34,7 @@
 
 | [Webserv](https://github.com/pquline/webserv) | [minishell](https://github.com/Roychrltt/minishell) |
 |:---:|:---:|
-| <a href="https://github.com/pquline/webserv"><img src="images/webserv.gif" alt="Webserv" width="400" height="225"></a> | <a href="https://github.com/Roychrltt/minishell"><img src="images/minishell.gif" alt="minishell" width="400" height="225"></a> |
+| <a href="https://github.com/pquline/webserv"><img src="images/webserv.gif" alt="Webserv" width="350" height="225"></a> | <a href="https://github.com/Roychrltt/minishell"><img src="images/minishell.gif" alt="minishell" width="350" height="225"></a> |
 | A lightweight, fast HTTP/1.1 server in C++ | A lightweight UNIX shell implemented in C, inspired by bash. |
 
 <h3 align="center">🛠️ Languages & Tools</h3>
