@@ -22,6 +22,14 @@
 | <a href="https://github.com/Roychrltt/MultilayerPerceptron"><img src="./mlp.webp" alt="Multilayer Perceptron" width="400"></a> | <a href="https://github.com/swangarch/DSLR"><img src="./dslr.png" alt="DSLR" width="400"></a> |
 | A MLP built from scratch without using any high-level ML libraries | Implemented binary classification with one-vs-all strategy using logistic regression |
 
+## Algorithm 🧮
+
+| [n-puzzle](https://github.com/Roychrltt/n-puzzle) | [Expert System](https://github.com/Roychrltt/expert-system) |
+|:---:|:---:|
+| <a href="https://github.com/Roychrltt/n-puzzle"><img src="./n-puzzle.png" alt="n-puzzle" width="400"></a> | <a href="https://github.com/Roychrltt/expert-system"><img src="./expert.png" alt="expert system" width="400"></a> |
+| A modern C++ implementation of the N-Puzzle solver | An expert system using a rule‑based knowledge base and a back-chaining inference engine to produce logical conclusions. |
+
+
 ## Low Level ⚙️
 
 | [Webserv](https://github.com/pquline/webserv) | [minishell](https://github.com/Roychrltt/minishell) |
