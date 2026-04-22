@@ -11,7 +11,7 @@
    
 # Projects 👩‍💻
 
-## AI & ML
+## AI & ML 🤖
 
 | [Learn2Slither](https://github.com/Roychrltt/Learn2Slither) | [Leaffliction](https://github.com/swangarch/leaffliction) |
 |:---:|:---:|
@@ -21,6 +21,13 @@
 | [Multilayer Perceptron](https://github.com/Roychrltt/MultilayerPerceptron) | [DSLR](https://github.com/swangarch/DSLR) |
 | <a href="https://github.com/Roychrltt/MultilayerPerceptron"><img src="./mlp.webp" alt="Multilayer Perceptron" width="400"></a> | <a href="https://github.com/swangarch/DSLR"><img src="./dslr.png" alt="DSLR" width="400"></a> |
 | A MLP built from scratch without using any high-level ML libraries | Implemented binary classification with one-vs-all strategy using logistic regression |
+
+## Low Level ⚙️
+
+| [Webserv](https://github.com/pquline/webserv) | [minishell](https://github.com/Roychrltt/minishell) |
+|:---:|:---:|
+| <a href="https://github.com/pquline/webserv"><img src="./webserv.gif" alt="Webserv" width="400"></a> | <a href="https://github.com/Roychrltt/minishell"><img src="./minishell.gif" alt="minishell" width="400"></a> |
+| A lightweight, fast HTTP/1.1 server in C++ | A lightweight UNIX shell implemented in C, inspired by bash. |
 
 <h3 align="center">🛠️ Languages & Tools</h3>
 <p align="center">
