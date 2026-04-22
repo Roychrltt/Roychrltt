@@ -35,12 +35,15 @@
   <br/>
 </p>
 
-</br>
-<p>
-![Profile views](https://komarev.com/ghpvc/?username=Roychrltt&color=blueviolet)
+<br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Roychrltt&color=blueviolet" alt="Profile views" />
 </p>
-<p>
-[![xiaxu's 42 stats](https://42cv.dev/api/badge/cmo8ru45k00000kmp813vdvqx/stats?cursusId=21&coalitionId=carbon)](https://42cv.dev/xiaxu)
+
+<p align="center">
+  <a href="https://42cv.dev/xiaxu">
+    <img src="https://42cv.dev/api/badge/cmo8ru45k00000kmp813vdvqx/stats?cursusId=21&coalitionId=carbon" alt="xiaxu's 42 stats" />
+  </a>
 </p>
 </div>
 
