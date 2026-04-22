@@ -26,7 +26,7 @@
 
 | [n-puzzle](https://github.com/Roychrltt/n-puzzle) | [Expert System](https://github.com/Roychrltt/expert-system) |
 |:---:|:---:|
-| <a href="https://github.com/Roychrltt/n-puzzle"><img src="images/n-puzzle.png" alt="n-puzzle" width="400"></a> | <a href="https://github.com/Roychrltt/expert-system"><img src="images/expert.png" alt="expert system" width="400"></a> |
+| <a href="https://github.com/Roychrltt/n-puzzle"><img src="images/n-puzzle.png" alt="n-puzzle" width="400" height="225"></a> | <a href="https://github.com/Roychrltt/expert-system"><img src="images/expert.png" alt="expert system" width="400" height="225"></a> |
 | A modern C++ implementation of the N-Puzzle solver | An expert system using a rule‑based knowledge base and a back-chaining inference engine to produce logical conclusions. |
 
 
