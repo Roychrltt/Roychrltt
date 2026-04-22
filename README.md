@@ -1,10 +1,7 @@
 <div align="center">
-  <div align="center">
    <h3>Hi, I'm Charlotte 👋</h3>
   <p>I'm currently completing a Master's degree in <b>AI and Algorithms</b> at <b>42 Paris</b>.</p>
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator" width="480">
-
-</div>
 <h3 align="center">🛠️ Languages & Tools</h3>
 <p align="center">
    <a href="https://skillicons.dev">
@@ -39,8 +36,9 @@
 </p>
 
 </br>
-
+<div>
 ![Profile views](https://komarev.com/ghpvc/?username=Roychrltt&color=blueviolet)
+</div>
 <br/>
 [![xiaxu's 42 stats](https://42cv.dev/api/badge/cmo8ru45k00000kmp813vdvqx/stats?cursusId=21&coalitionId=carbon)](https://42cv.dev/xiaxu)
 </div>
