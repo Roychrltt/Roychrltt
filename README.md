@@ -55,7 +55,6 @@
   <a href="https://leetcode.com/Chachou33" target="_blank">
     <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="LeetCode" height="45" width="45" style="display:inline-block;"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://codeforces.com/profile/Chachou33" target="_blank">
     <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codeforces.svg" alt="Codeforces" height="45" width="45" style="display:inline-block;"/>
   </a>
