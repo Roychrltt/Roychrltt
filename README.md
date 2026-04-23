@@ -52,12 +52,13 @@
 
 <h3 align="center">🎯 Competitive Programming</h3>
 <p align="center">
-  <a href="https://leetcode.com/Chachou33" target="_blank">
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="LeetCode" height="45" width="45" style="display:inline-block;"/>
-  </a>
-  <a href="https://codeforces.com/profile/Chachou33" target="_blank">
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codeforces.svg" alt="Codeforces" height="45" width="45" style="display:inline-block;"/>
-  </a>
+<a href="https://leetcode.com/Chachou33" target="_blank">
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="LeetCode" height="45" width="45" style="display:inline-block; margin-right: 10px;"/>
+</a>
+
+<a href="https://codeforces.com/profile/Chachou33" target="_blank">
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codeforces.svg" alt="Codeforces" height="45" width="45" style="display:inline-block;"/>
+</a>
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Cool separator" width="480">
