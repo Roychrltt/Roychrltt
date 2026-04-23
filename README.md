@@ -6,8 +6,6 @@
     <img src="https://42cv.dev/api/badge/cmo8ru45k00000kmp813vdvqx/stats?cursusId=21&coalitionId=carbon" alt="xiaxu's 42 stats" />
   </a>
 </p>
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator" width="480">
-
    
 # Projects 👩‍💻
 
