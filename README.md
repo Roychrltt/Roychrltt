@@ -7,14 +7,6 @@
   </a>
 </p>
 
-<div id="project">
-  <ul align="center" style="list-style: none;">
-    <summary>
-      Projects 👩‍💻</h1>
-    </summary>
-  </ul>
-</div>
-
 ## AI & ML 🤖
 
 | [Learn2Slither](https://github.com/Roychrltt/Learn2Slither) | [Leaffliction](https://github.com/swangarch/leaffliction) |
