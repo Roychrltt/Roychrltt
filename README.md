@@ -10,7 +10,7 @@
 <div id="project">
   <ul align="center" style="list-style: none;">
     <summary>
-      <h1>Projects 👩‍💻</h1>
+      Projects 👩‍💻</h1>
     </summary>
   </ul>
 </div>
@@ -70,11 +70,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Cool separator" width="480">
   <br/>
   <br/>
-</p>
-
-<br/>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Roychrltt&color=blueviolet" alt="Profile views" />
 </p>
 
 </div>
