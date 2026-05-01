@@ -6,8 +6,14 @@
     <img src="https://42cv.dev/api/badge/cmo8ru45k00000kmp813vdvqx/stats?cursusId=21&coalitionId=carbon" alt="xiaxu's 42 stats" />
   </a>
 </p>
-   
-# Projects 👩‍💻
+
+<div id="project">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h1>Projects 👩‍💻</h1>
+    </summary>
+  </ul>
+</div>
 
 ## AI & ML 🤖
 
